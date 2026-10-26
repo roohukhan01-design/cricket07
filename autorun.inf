@@ -1,0 +1,9 @@
+[autorun]
+open=RunGame.exe
+Icon=cricket.ico
+Name=EA SPORTS(TM) Cricket 07
+
+[Special]
+Disk=2
+ProductGuiID={12383CA3-0733-4210-00B8-D83642F1192C}
+

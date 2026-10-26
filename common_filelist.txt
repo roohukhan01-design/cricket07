@@ -1,0 +1,5 @@
+1,1,EAInstall.dll
+1,1,eauninstall.exe
+1,1,Support\European Help Files\*.* /s
+1,1,Support\*.*
+2,1,
